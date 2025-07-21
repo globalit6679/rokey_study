@@ -7,13 +7,12 @@
 ## Branch
 
 <aside>
-💡
 
-minutes: 회의록 
+> minutes: 회의록 
 
 [https://github.com/globalit6679/rokey_study/tree/minutes](https://github.com/globalit6679/rokey_study/tree/minutes)
 
-submission: 스터디
+> submission: 스터디
 
 [https://github.com/globalit6679/rokey_study/tree/submission](https://github.com/globalit6679/rokey_study/tree/submission)
 
