@@ -1,0 +1,73 @@
+# 기업/기술스택 조사
+
+(기술은 AI Perception을 중점으로 조사하였습니다)
+
+회사명: 서울 로보틱스
+
+산업분야: B2B 산업용 자율주행 스타트업
+
+주요 기술: LiDAR 기반 3D CV, 센서 퓨전
+
+기술: CV+ROS 연동 경험, 센서와 시각화 툴(PointCloud)
+
+---
+
+회사명: 두산 로보틱스
+
+산업분야: 협동로봇 → 최근에는 지능형 로봇 추가
+
+주요 서비스: 협동로봇 솔루션
+
+Azure OpenAI 서비스와 GPT 기반 협동 로봇 제어 시스템 공동 개발중 → 단순 명령만으로 로봇이 상황을 파악하여 작업 순서를 최적화 가능하도록 하는 AI 솔루션
+
+기술: Vision/기타 센서 처리 알고리즘, 센서/ROS/DL 관련 전공지식, manipulation 인식 기능 연동
+
+→ 협동로봇 Vision 기반 물체 인식, 자세 추정 제어, 충동 예방용 Perception 알고리즘, 환경 인지용 센서 처리
+
+---
+
+회사명: 레인보우 로보틱스(삼성전자 자회사)
+
+산업 분야: 이족 보행 및 협동 로봇
+
+주요 기술: 휴머노이드, 이동로봇, 의료 보조용 로봇 등 AI 기반 로봇 SW → 보행로봇에 특화된 강화학습 기반 제어 및 AI 융합 시스템
+
+기술: 보행 로봇에 특화된 강화학습 기반 제어 및 AI 융합 시스템
+
+---
+
+회사명: 현대 로보틱스랩(AI Perception)
+
+- DL 객체 탐지/추적 및 상황 분석
+    - re-identification 기반의 객체 추적 기술
+    - Vision-Language model을 활용한 객체 및 상황 분석(행동, 객체 attribute 등)
+- DL 기반 reconstruction 연구
+    - 객체 및 공간 3D reconstruction
+- 데이터 분석 및 curation
+    - 데이터 레이블링
+    - unlabeled data 분석 및 edge case 분석
+    - 데이터 관리 및 ops연동
+
+주요 기술: ‘모베드’(자율운행 로봇) — 그리퍼, 자율주행, 로봇 sw 통합 스택
+
+기술: 카메라 기반 인식 알고리즘, 멀티모달 센싱 시스템 → AI Perception과 Multi modal 인지 중점
+
+---
+
+회사명: 서브 로보틱스
+
+산업 분야: 자율주행 배달 로봇 — Lv4 자율주행 구현, 센서퓨전(Lidar+카메라 기반 SLAM 및 회피)
+
+주요 기술: 자율행동 알고리즘(Perception, Localisation&Mapping, Planning, Decision Making & Control, Situational Awareness & Adaptation 통합 처리) , ROS2
+
+종합
+
+- ROS2 기반 perception/planning 노드 작성 경험, 센서 시뮬레이션 연동 경험 우대(현대, 서울 로보틱스)
+- ROS2기반 애플리케이션 플랫폼 개발 경험(두산 로보틱스)
+- CV+ROS2 연동 경험
+- 실제 센서 데이터 or 시뮬레이터 연동 + perception/planning 구조 설계 경험
+- python, C++/C 중 하나 이상 숙련자(가끔 Linux 도 있음)
+- Gazebo 활용 경험
+- 2D SLAM 3D SLAM/센서퓨전
+
+[스터디 ](https://www.notion.so/23220b439e6981739c08e9b7b11cfa82?pvs=21)
