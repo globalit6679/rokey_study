@@ -19,6 +19,8 @@ submission: 스터디
 
 </aside>
 
+## Notion
+https://www.notion.so/23220b439e6981739c08e9b7b11cfa82?source=copy_link
 ---
 
 ## rokey 부트캠프 자료:
